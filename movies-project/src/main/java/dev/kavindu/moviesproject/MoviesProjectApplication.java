@@ -16,6 +16,6 @@ public class MoviesProjectApplication {
 
 	@GetMapping("/")
 	public String apiRoot(){
-		return "kavindu";
+		return "kavindu1";
 	}
 }
