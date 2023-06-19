@@ -1,5 +1,4 @@
 {
-  "proxy": "https://stream-vedio.onrender.com",
   "name": "movies-project-frontend",
   "version": "0.1.0",
   "private": true,
